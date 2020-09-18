@@ -17,7 +17,7 @@ security.
 I'm also
 - Durham, UK, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
 
-If you want to know where I physically are check my [calendar](https://calendar.google.com/calendar/embed?src=fabio.massacci@ieee.org)
+If you want to know where I physically are, check my [calendar](https://calendar.google.com/calendar/embed?src=fabio.massacci@ieee.org). Most likely on digital platform somewhere.
 
 # Research Highlight
 
@@ -54,7 +54,7 @@ See the recent development of an intellectual child of mine: Logical Cryptanalys
 
 # Collaborators	
 
-# Post Docs and Research Staff
+## Post Docs and Research Staff
 - Pierantonia Sterlini - EU Project Manager @UTrento
 - Ivan Pashchenko - on software vulnerability (2nd Place at ESEC/FSE 2017 SRC Graduate Competition)
 - Chan Nam Ngo - on crypto and FinTech @UTrento
