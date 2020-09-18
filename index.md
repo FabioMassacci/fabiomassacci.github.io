@@ -80,7 +80,7 @@ You can also find some of them on [Trento's web page](https://securitylab.disi.u
 - [Giorgio DiTizio](https://giorgioditizio.github.io) on risk analysis for advanced persistent threats @UTrento
 
 ## Former Collaborators
-- Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Nicola Zannone (TU/e)
+- Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Stephan Neuhaus (ZHAW), Nicola Zannone (TU/e)
 - industry: Stanislav Dashevsky (Forescout), Katsyarina Naliuka (Google), Viet Hung Nguyen (Bosch), Minh Sang Tran (Yandex).
 - Governement: Woohyun Shim (Korean Institute of Public Administration)
 
