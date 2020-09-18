@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: [Fabio Massacci Personal Web page]
-logo: /images/Fabio-Massacci-2020.jpg
-description: [PhD in Computer Science, MSc in Computer Engineering, Master in International Relations.<BR> I am chair of Foundational and Experimental Security at Vrije Universiteit Amsterdam, The Netherlands. I’m also part-time professor at the University of Trento, Italy.]
-show_downloads: true
+logo: [/images/Fabio-Massacci-2020.jpg]
+description: [Chair of Foundational and Experimental Security at Vrije Universiteit Amsterdam. Part-time professor at University of Trento.]
+show_downloads: false
 google_analytics:
 layout: default
 homepage: http://www.massacci.org
