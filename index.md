@@ -30,17 +30,17 @@ I'm also
 ## Recent Selected Papers
 
 #### Secure Software Engineering
-  - IEEE Transaction on Software Engineering 2020 (joint with SAP) * *
-  - ACM CCS'2020 *A Qualitative Study of Dependency Management and Its Security Implications* [Author's Preprint](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
-  - Empirical Software Engineering J. 2020 (joint with TU/e and UMilano), *Measuring the accuracy of software vulnerability assessments: experiments with students and professionals* [Open Access PDF](https://doi.org/10.1007/s10664-019-09797-4)
+  - *IEEE Transactions on Software Engineerin, TSE-2020* (joint with SAP) 
+  - *ACM Computers and Communication Security CCS-2020* [A Qualitative Study of Dependency Management and Its Security Implications](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
+  - *Empirical Software Engineering Journal* ESEJ-2020 (joint with TU/e and UMilano), [Measuring the accuracy of software vulnerability assessments: experiments with students and professionals](https://doi.org/10.1007/s10664-019-09797-4)
 
 #### Risk Analysis and Policy
-  - Wiley Risk Analysis 2020 (joint with Durham Business School) *Who Should Pay for Interdependent Risk? Policy Implications for Security Interdependence Among Airports* [Open Access PDF](https://doi.org/10.1111/risa.13454)
-  - IEEE Security and Privacy Magazine 2020 (joint with TU Delft) on *Gvernance Challenges for European Cybersecurity Policies: Stakeholder Views* [pre-print](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:economics:ieee_governance_v28-cleaned.pdf)
+  - *Risk Analysis* RAJ-2020 (joint with Durham Business School and KIPA) [Who Should Pay for Interdependent Risk? Policy Implications for Security Interdependence Among Airports](https://doi.org/10.1111/risa.13454)
+  - *IEEE Security and Privacy Magazine* SPM-2020 (joint with TU Delft) [Governance Challenges for European Cybersecurity Policies: Stakeholder Views](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:economics:ieee_governance_v28-cleaned.pdf)
 
 #### Crypto and Fintech
-  - IEEE Security and Privacy Magazine 2020 on *Distributed Financial Exchanges: Security Challenges and Design Principles* [Author's Preprint](https://securitylab.disi.unitn.it/doku.php?id=sp-2019-05-0134.r1_ngo.pdf)
-  - IEEE Symposiunm on Security and Privacy (joint with Durham Business School) on *FuturesMEX: secure, distributed futures market exchange*, [Author's preprint](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=sp18proceedings.pdf). Also an [EU/US Patent Application](https://patentimages.storage.googleapis.com/33/02/e7/6deebeae0a1845/US20190244290A1.pdf)
+  - *IEEE Security and Privacy Magazine* SPM-2020 on [Distributed Financial Exchanges: Security Challenges and Design Principles](https://securitylab.disi.unitn.it/doku.php?id=sp-2019-05-0134.r1_ngo.pdf)
+  - *IEEE Symposiunm on Security and Privacy* SSP-2018 (joint with Durham Business School) on [FuturesMEX: secure, distributed futures market exchange](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=sp18proceedings.pdf). Also an [EU/US Patent Application](https://patentimages.storage.googleapis.com/33/02/e7/6deebeae0a1845/US20190244290A1.pdf)
 
 ### Less Active Research Topics 	
 - Modelling Security Requirements Engineering (Now I do experiments on SRE). But you can still check my 
@@ -50,7 +50,7 @@ this so if you are interested drop me an email.
 #### Papers 
 You can find most of my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486) and [DBLP](https://dblp.org/pid/59/6145.html).
 
-You can also find them on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). I don't have a VU Amsterdam group page yet).
+You can also find some of them on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). I don't have a VU Amsterdam group page yet).
 
 ### Research Topics
 
@@ -71,7 +71,7 @@ You can also find them on [Trento's web page](https://securitylab.disi.unitn.it/
 
 ## Post Docs and Research Staff
 - [Pierantonia Sterlini](https://www.linkedin.com/in/pierantonia-sterlini-30a24952) - EU Project Manager (ISO/IEC 17024) @UTrento
-- [Ivan Pashchenko](https://sites.google.com/g.unitn.it/pashchenko) - on software vulnerability (2nd Place at ESEC/FSE 2017 SRC Graduate Competition)
+- [Ivan Pashchenko](https://sites.google.com/g.unitn.it/pashchenko) - on software vulnerability (2nd Place at ESEC/FSE 2017 SRC Graduate Competition) @UTrento
 - [Chan Nam Ngo](https://sites.google.com/g.unitn.it/namnc/home) - on crypto and FinTech @UTrento
 
 ## PhD Students
