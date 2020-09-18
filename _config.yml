@@ -4,4 +4,9 @@ description: Fabio Massacci's web page
 show_downloads: true
 google_analytics:
 layout: default
-homepage: www.massacci.org
+homepage: http://www.massacci.org
+name: "jekyll-theme-minimal"
+version: "0.0.1"
+authors: ["Fabio Massacci", "Babbo Natale"]
+email: ["support@github.com", "sono_babbo_natale@liberio.it"]
+summary: "Minimal is a theme for GitHub Pages"
