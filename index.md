@@ -2,7 +2,7 @@
 
 - Fabio Massacci (MEng'92, PhD'98 Computer Engineering, MA'95 in International Relations) has been in Rome, Cambridge, Toulouse, Trento, and now Amsterdam. He held
 visiting positions in Durham, Koblenz, Lueven, Marina del Rey, and Oslo. 
-- He has published more than 250 articles on various aspects of security and has received the *Ten years Most Influential Paper Award* by the IEEE Requirements Engineering 
+- He has published many papers on various aspects of security ([Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486) ) and has received the *Ten years Most Influential Paper Award* by the IEEE Requirements Engineering 
 Conference in 2015 for his 2005 work on secuirty and trust in socio-technical systems. 
 - He has coordinated several European projects (the SECONOMICS project on socio-economic aspects of security). He coordinates the education 
 and skills workpackage of the CyberSec4Europe European pilot for an European Competence Center and he is the coordinator on the 
