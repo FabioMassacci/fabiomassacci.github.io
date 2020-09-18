@@ -1,13 +1,3 @@
-Creative Commons Attribution-ShareAlike 3.0 Unported License.  (CC BY-SA 3.0)
-
-Copyright (c) 2013 Steve Smith
-https://github.com/orderedlist/minimal
-
-This work is licensed under the
-Creative Commons Attribution-ShareAlike 3.0 Unported License.
-
-To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
 # Minimal `jekyll-theme-minimal` gem
 
 ### Fabio Massacci
@@ -90,3 +80,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Copyright
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC-A-SA-3.0)
+To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+
