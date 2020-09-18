@@ -19,7 +19,7 @@ If you want to know where I physically are: somewhere in an office, in a home, m
 
 # Research Highlight
 
-## Papers
+## Selected Papers
 
 - ACM CCS *A Qualitative Study of Dependency Management and Its Security Implications* [Author's Preprint](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
 - IEEE Security and Privacy Magazine paper on *Distributed Financial Exchanges: Security Challenges and Design Principles* [Author's Preprint](https://securitylab.disi.unitn.it/doku.php?id=sp-2019-05-0134.r1_ngo.pdf)
@@ -61,6 +61,20 @@ See the recent development of an intellectual child of mine: Logical Cryptanalys
 - Duc Ly - @UTrento
 - Ganbayar Uuganbayar -@CNR-Pisa
 - Giorgio DiTizio - @UTrento
+
+# Projects 
+
+## Active Projects
+- H2020 AssureMOSS
+- H2020 CyberSec4Europe
+- H2020 OPTICS2
+
+## Past Projects
+- FP7 SECONOMICS
+- PF7 SecureCHANGE
+- FP6 MASTER
+- FP6 S3MS
+- FP5 SERENITY
 
 # Contact 
 
