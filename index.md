@@ -1,3 +1,58 @@
+Creative Commons Attribution-ShareAlike 3.0 Unported License.  (CC BY-SA 3.0)
+
+Copyright (c) 2013 Steve Smith
+https://github.com/orderedlist/minimal
+
+This work is licensed under the
+Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+# Minimal `jekyll-theme-minimal` gem
+
+### Fabio Massacci
+
+This theme was ported from the GitHub Automatic Page Generator to a Jekyll v3.3 theme gem.
+
+To use it on a Pages site, add `theme: jekyll-theme-minimal` to your `_config.yml`.
+
+```yml
+theme: jekyll-theme-minimal
+title: Custom title
+description: Custom description.
+show_downloads: true
+google_analytics:
+```
+
+- To override the repository name or description from GitHub used in the header, set a `title` or `description`.
+- Set `show_downloads` to `false` to hide the download buttons in the header.
+- Set `google_analytics` to your tracking ID to enable pageview tracking.
+
+This theme includes a single `default` layout. Markdown files should be prefixed with the following frontmatter.
+
+```
+---
+layout: default
+---
+```
+
+#### CSS
+
+For CSS customization, create your own `/assets/css/styles.scss` in your project to replace the one from this theme, and override selected stylesheet properties.
+
+```scss
+---
+---
+@import "fonts";
+@import "rouge-github";
+@import "minimal";
+```
+
+#### Syntax Highlighting
+
+[Rouge](http://rouge.jneen.net/) is the default highlighter in Jekyll 3. This theme includes the `github` stylesheet from Rouge.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FabioMassacci/fabiomassacci.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
