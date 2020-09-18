@@ -9,10 +9,12 @@ and skills workpackage of the CyberSec4Europe European pilot for an European Com
 [H2020 AssureMOSS project](https://assuremoss.eu/) on open source security ("Written everywhere, Secured in Europe"). His is interested in foundational and experimental aspects 
 of security in socio-technical systems.
 
+* * *
+
 # Affiliations
 
-- Amsterdam, chair of Foundational and Experimental Security at [Vrije Universiteit](https://www.vu.vl).
-- Trento, part-time professor of cyber security at [University of Trento](https://www.unitn.it).
+- **Amsterdam**, chair of Foundational and Experimental Security at [Vrije Universiteit](https://www.vu.vl).
+- **Trento**, part-time professor of cyber security at [University of Trento](https://www.unitn.it).
 
 I'm also
 - Durham, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
@@ -22,37 +24,37 @@ I'm also
 
 If you want to know where I physically are, check my [calendar](https://calendar.google.com/calendar/embed?src=fabio.massacci@ieee.org). Most likely on digital platform somewhere.
 
+* * *
+
 # Research Highlight
 
-## Selected Papers
+## Recent Selected Papers
 
-### Secure Software Engineering
-- ACM CCS *A Qualitative Study of Dependency Management and Its Security Implications* [Author's Preprint](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
-- Empirical Software Engineering Journal, *Measuring the accuracy of software vulnerability assessments: experiments with students and professionals* [Open Access PDF](https://doi.org/10.1007/s10664-019-09797-4)
+#### Secure Software Engineering
+  - ACM CCS'2020 *A Qualitative Study of Dependency Management and Its Security Implications* [Author's Preprint](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
+  - Empirical Software Engineering Journal, *Measuring the accuracy of software vulnerability assessments: experiments with students and professionals* [Open Access PDF](https://doi.org/10.1007/s10664-019-09797-4)
 
-### Risk Analysis and Policy
-- Risk Analysis paper on *Who Should Pay for Interdependent Risk? Policy Implications for Security Interdependence Among Airports* [Open Access PDF](https://doi.org/10.1111/risa.13454)
-- IEEE Security and Privacy Magazine on *Gvernance Challenges for European Cybersecurity Policies: Stakeholder Views* [pre-print](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:economics:ieee_governance_v28-cleaned.pdf)
+#### Risk Analysis and Policy
+  - Risk Analysis 2020 paper on *Who Should Pay for Interdependent Risk? Policy Implications for Security Interdependence Among Airports* [Open Access PDF](https://doi.org/10.1111/risa.13454)
+  - IEEE Security and Privacy Magazine 2020 on *Gvernance Challenges for European Cybersecurity Policies: Stakeholder Views* [pre-print](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:economics:ieee_governance_v28-cleaned.pdf)
 
-### Crypto and Fintech
-- IEEE Security and Privacy Magazine paper on *Distributed Financial Exchanges: Security Challenges and Design Principles* [Author's Preprint](https://securitylab.disi.unitn.it/doku.php?id=sp-2019-05-0134.r1_ngo.pdf)
+#### Crypto and Fintech
+  - IEEE Security and Privacy Magazine 2020 on *Distributed Financial Exchanges: Security Challenges and Design Principles* [Author's Preprint](https://securitylab.disi.unitn.it/doku.php?id=sp-2019-05-0134.r1_ngo.pdf)
+  - IEEE Symposiunm on Security and Privacy on *FuturesMEX: secure, distributed futures market exchange*, [Author's preprint](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=sp18proceedings.pdf). Also an [EU/US Patent Application](https://patentimages.storage.googleapis.com/33/02/e7/6deebeae0a1845/US20190244290A1.pdf)
 
-### Everything Else
-You can find most of my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486) and [DBLP](https://dblp.org/pid/59/6145.html).
-
-You can also find them on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). I don't have a VU Amsterdam group page yet).
-
-## Research Topics
-- Data and models for vulnerabilities and exploits in the wild
-= Security economics
-- Empirical validation of risk and security methodologies
-- Security testbeds and malware analysis
-
-## Less Active Research Topics 	
+### Less Active Research Topics 	
 - Modelling Security Requirements Engineering (Now I do experiments on SRE)
 - Logical Cryptanalysis or Crypto with SAT for representing crypto-problems as logical problems (See for new ongoing development as well). I have some old lover's interest in 
 this so if you are interested drop me an email.
 
+#### Papers 
+You can find most of my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486) and [DBLP](https://dblp.org/pid/59/6145.html).
+
+You can also find them on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). I don't have a VU Amsterdam group page yet).
+
+### Research Topics
+
+* * *
 # Impact 	
 
 ## Scientific Awards
@@ -63,6 +65,7 @@ this so if you are interested drop me an email.
 My research on risk reduction for vulnerability assessment made its way to the world standard Common Vulnerability Scoring System (CVSS) v3. You can see our Black Hat'13 presentation read the full paper on ACM TISSEC (Comparing Vulnerability Severity and Exploits Using Case-Control Studies) or our pre-print copy.
 See the recent development of an intellectual child of mine: Logical Cryptanalysis was instrumental to break SHA-1
 
+* * *
 # Collaborators	
 
 ## Post Docs and Research Staff
@@ -75,6 +78,7 @@ See the recent development of an intellectual child of mine: Logical Cryptanalys
 - Ganbayar Uuganbayar -@CNR-Pisa
 - Giorgio DiTizio - @UTrento
 
+* * *
 # Projects 
 
 ## Active Projects
@@ -89,9 +93,13 @@ See the recent development of an intellectual child of mine: Logical Cryptanalys
 - FP6 S3MS
 - FP5 SERENITY
 
+* * * 
 # Contact 
 
-Send me an email (that is a good joke). You can use either my VU Amsterdam address "initial-of-vornaam.achternaam>@vu.nl" or my UTrento address "nome.cognome>@unitn.it" or you might try with my IEEE address "name.surname>@ieee.org".
+> Send me an email (that is a good joke). You can use 
+> - my VU Amsterdam address "initial-of-vornaam.achternaam>@vu.nl" 
+> - my UTrento address "nome.cognome>@unitn.it
+> - my IEEE address "name.surname>@ieee.org".
   
 You might also directly call me at my phone number in the official web page of the Departments.
 
