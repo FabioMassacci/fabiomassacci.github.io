@@ -1,6 +1,11 @@
 # CV in Brief
 
-Fabio Massacci (PhD in Computer Science, MSc in Computer Engineering, Master in International Relations) has been in Rome (IT), Cambridge (UK), Toulouse (FR), Trento (IT), and now Amsterdam (UK) and shorter visiting positions in Durham (UK), Koblenz (DE), Lueven (BE), Marina del Rey (USA, CA), Oslo (NO). 
+Fabio Massacci (MEng'92, PhD'98 Computer Engineering, MA'95 in International Relations) has been in Rome (IT), Cambridge (UK), Toulouse (FR), Trento (IT), and now Amsterdam (NL) 
+and shorter visiting positions in Durham (UK), Koblenz (DE), Lueven (BE), Marina del Rey (USA, CA), and Oslo (NO). He has published more than 250 articles on various 
+aspects of security and has received the 10 years Most Influential Paper Award by the IEEE Requirements Engineering Conference in 2015 for his 2005 work on secuirty and trust
+in socio-technical systems. He has coordinated several European projects and including the SECONOMICS project on socio-economic aspects of security. He coordinates the education 
+and skills workpackage of the CyberSec4Europe European pilot for an European Competence Center and he is the coordinator on the AssureMOSS project on open source 
+security ("Built everywhere, secured in Europe"). His is interested in foundational and experimental aspects of security.
 
 # Affiliations
 
@@ -10,11 +15,19 @@ Fabio Massacci (PhD in Computer Science, MSc in Computer Engineering, Master in 
 I'm also
 - Durham, UK, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
 
-If you want to know where I physically are: somewhere in an office, in a home, most likely logged on digital video platform (Zoom, Google Meet, CISCO WebEx, Microsoft Teams, GoToMeeting, ...). You can check my [calendar](https://calendar.google.com/calendar/embed?src=fabio.massacci@ieee.org)
+If you want to know where I physically are: somewhere in an office, in a home, most likely logged on digital video platform. You can check my [calendar](https://calendar.google.com/calendar/embed?src=fabio.massacci@ieee.org)
 
-# What I Do 
+# Research Highlight
 
-# Paper Highlight
+## Papers
+
+- ACM CCS *A Qualitative Study of Dependency Management and Its Security Implications* [Author's Preprint](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
+- IEEE Security and Privacy Magazine paper on *Distributed Financial Exchanges: Security Challenges and Design Principles* [Author's Preprint](https://securitylab.disi.unitn.it/doku.php?id=sp-2019-05-0134.r1_ngo.pdf)
+- Empirical Software Engineering Journal, *Measuring the accuracy of software vulnerability assessments: experiments with students and professionals* [Open Access PDF](https://doi.org/10.1007/s10664-019-09797-4)
+- Risk Analysis paper on *Who Should Pay for Interdependent Risk? Policy Implications for Security Interdependence Among Airports* [Open Access PDF](https://doi.org/10.1111/risa.13454)
+- IEEE Security and Privacy Magazine on *Gvernance Challenges for European Cybersecurity Policies: Stakeholder Views* [pre-print](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:economics:ieee_governance_v28-cleaned.pdf)
+
+You can find most of my papers on Google Scholar or DBLP.
 
 ## Research Topics
 - Data and models for vulnerabilities and exploits in the wild
@@ -22,11 +35,10 @@ If you want to know where I physically are: somewhere in an office, in a home, m
 - Empirical validation of risk and security methodologies
 - Security testbeds and malware analysis
 
-Less Active 	
-Modelling Security Requirements Engineering (Now I do experiments on SRE)
-Logical Cryptanalysis or Crypto with SAT for representing crypto-problems as logical problems (See for new ongoing development as well). I have some new interest in this so if you are interested drop me an email.
-
-## Awards 	
+## Less Active Research Topics 	
+- Modelling Security Requirements Engineering (Now I do experiments on SRE)
+- Logical Cryptanalysis or Crypto with SAT for representing crypto-problems as logical problems (See for new ongoing development as well). I have some old lover's interest in 
+this so if you are interested drop me an email.
 
 # Impact 	
 
@@ -40,14 +52,19 @@ See the recent development of an intellectual child of mine: Logical Cryptanalys
 
 # Collaborators	
 
-- Ivan Pashchenko on experimental comparison of static analysis methods for vulnerability analysis 2nd Place at ESEC/FSE 2017 SRC Graduate Competition
-- Chan Nam Ngo on FinTech and distributed transactions systems
-- Duc Ly on using Machine Learning to identify vulnerabilities fixes or exploits - Marie Curie Fellowship
-- Ganbayar Uuganbayar on models for cyberinsurance (Co-funded by CNR - Marie Curie Fellowship with CNR) 
+# Post Docs and Research Staff
+- Pierantonia Sterlini - EU Project Manager @UTrento
+- Ivan Pashchenko - on software vulnerability (2nd Place at ESEC/FSE 2017 SRC Graduate Competition)
+- Chan Nam Ngo - on crypto and FinTech @UTrento
+
+## PhD Students
+- Duc Ly - @UTrento
+- Ganbayar Uuganbayar -@CNR-Pisa
+- Giorgio DiTizio - @UTrento
 
 # Contact 
 
-Send me an email (that is a good joke). You can use either my VU Amsterdam address "<initial-of-voornaam>.<achternaam>@vu.nl"or my UTrento address "<nome>.<cognome>@unitn.it" or you might try with my IEEE address "<name>.<surname>@ieee.org".
+Send me an email (that is a good joke). You can use either my VU Amsterdam address "initial-of-vornaam.achternaam>@vu.nl" or my UTrento address "nome.cognome>@unitn.it" or you might try with my IEEE address "name.surname>@ieee.org".
   
 You might also directly call me at my phone number in the official web page of the Departments.
 
