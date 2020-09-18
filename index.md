@@ -1,11 +1,14 @@
-# Fabio Massacci Personal Information
+# CV in Brief
 
-PhD in Computer Science, MSc in Computer Engineering, Master in International Relations
+Fabio Massacci (PhD in Computer Science, MSc in Computer Engineering, Master in International Relations) has been in Rome (IT), Cambridge (UK), Toulouse (FR), Trento (IT), and now Amsterdam (UK) and shorter visiting positions in Durham (UK), Koblenz (DE), Lueven (BE), Marina del Rey (USA, CA), Oslo (NO). 
 
-## Where I am now
+# Affiliations
 
-I am chair of Foundational and Experimental Security at Vrije Universiteit Amsterdam, The Netherlands. I'm also part-time professor at the 
-University of Trento, Italy.
+- Amsterdam,  The Netherlands, where I am Foundational and Experimental Security at [Vrije Universiteit](https://www.vu.vl).
+- Trento, Italy, where I'm part-time professor of cyber security at [University of Trento](https://www.unitn.it).
+
+I'm also
+- Durham, UK, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
 
 If you want to know where I physically are: somewhere in an office, in a home, most likely logged on digital video platform (Zoom, Google Meet, CISCO WebEx, Microsoft Teams, GoToMeeting, ...). You can check my [calendar](https://calendar.google.com/calendar/embed?src=fabio.massacci@ieee.org)
 
