@@ -6,7 +6,7 @@ University of Trento, Italy.
 
 ## Where I am now
 
-Somewhere in an office, in a home, most likely on digital platform. You can check my [calendar]
+Somewhere in an office, in a home, most likely on digital platform. You can check my [calendar](https://calendar.google.com/calendar/embed?src=fabio.massacci@ieee.org)
 
 ## Some
 A Political Statement 	
