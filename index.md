@@ -1,7 +1,7 @@
 # CV in Brief
 
-Fabio Massacci (MEng'92, PhD'98 Computer Engineering, MA'95 in International Relations) has been in Rome (IT), Cambridge (UK), Toulouse (FR), Trento (IT), and now Amsterdam (NL) 
-and shorter visiting positions in Durham (UK), Koblenz (DE), Lueven (BE), Marina del Rey (USA, CA), and Oslo (NO). He has published more than 250 articles on various 
+Fabio Massacci (MEng'92, PhD'98 Computer Engineering, MA'95 in International Relations) has been in Rome, Cambridge, Toulouse, Trento, and now Amsterdam. He held
+visiting positions in Durham, Koblenz, Lueven, Marina del Rey, and Oslo. He has published more than 250 articles on various 
 aspects of security and has received the 10 years Most Influential Paper Award by the IEEE Requirements Engineering Conference in 2015 for his 2005 work on secuirty and trust
 in socio-technical systems. He has coordinated several European projects and including the SECONOMICS project on socio-economic aspects of security. He coordinates the education 
 and skills workpackage of the CyberSec4Europe European pilot for an European Competence Center and he is the coordinator on the AssureMOSS project on open source 
