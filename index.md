@@ -15,8 +15,8 @@
 
 # Affiliations
 
-> - **Amsterdam**, chair of Foundational and Experimental Security at [Vrije Universiteit](https://www.vu.vl).
-> - **Trento**, part-time professor of cyber security at [University of Trento](https://www.unitn.it).
+> - **Amsterdam**, chair of Foundational and Experimental Security at the [Vrije Universiteit](https://www.vu.vl).
+> - **Trento**, part-time professor of cyber security at the [University of Trento](https://www.unitn.it).
 
 I'm also
 - Durham, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
@@ -44,15 +44,13 @@ I'm also
 
 ### Less Active Research Topics 	
 - Modelling Security Requirements Engineering (Now I do experiments on SRE). But you can still check my 
-- Logical Cryptanalysis or Crypto with SAT for representing crypto-problems as logical problems (See for new ongoing development as well). I have some old lover's interest in 
+- (Logical Cryptanalysis or Crypto with SAT)[https://disi.unitn.it/~massacci/CryptoSAT/] for representing crypto-problems as logical problems. This was an instrumental technology for the recent collision found on SHA-1. I have some old lover's interest in 
 this so if you are interested drop me an email.
 
 #### Papers 
 You can find most of my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486) and [DBLP](https://dblp.org/pid/59/6145.html).
 
-You can also find some of them on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). I don't have a VU Amsterdam group page yet).
-
-### Research Topics
+You can also find some of them on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). The VU Amsterdam group page is coming soon.
 
 * * *
 # Impact 	
@@ -88,16 +86,18 @@ You can also find some of them on [Trento's web page](https://securitylab.disi.u
 # Projects 
 
 ## Active Projects
-- H2020 AssureMOSS - 12 partners - (EU Coordinator)
-- H2020 CyberSec4Europe - 41 Partners - (Leader of Education and Skill WP)
-- H2020 OPTICS2 - 6 Partners
+- H2020 [AssureMOSS](https://www.assuremoss.eu) - 12 partners - (EU Coordinator)
+- H2020 [CyberSec4Europe](https://cybersec4europe.eu/) - 41 Partners - (Leader of Education and Skill WP)
+- H2020 [OPTICS2](http://www.optics-project.eu) - 6 Partners
 
 ## Past Projects
-- FP7 SECONOMICS
-- PF7 SecureCHANGE
+- FP7 [SECONOMICS](http://seconomicsproject.eu/)
+- PF7 [SecureCHANGE](http://www.securechange.eu)
+
 - FP6 MASTER
 - FP6 S3MS
 - FP5 SERENITY
+- 
 
 * * * 
 # Contacts and Appointments
@@ -115,9 +115,18 @@ You might also directly call me at my phone number in the official web page of t
 
 * * *
 
-# Teaching
+# Lectures and Teaching
 
-If you are an interested student, it is a lot better that you check the web pages of the University. Those ones are always updated (and anyhow they are the ones that i have to use).
+For the lectures, it is a lot better that you check the web pages of the University. Those ones are always updated (and anyhow they are the ones that i have to use).
+
+For Master Thesis, send me an email from your students' account. Try to read the bio to make sure that I'm sort of interested in the things you want to do. I also supervise Thesis carried in industry with some caveat in terms of their organization.
+
+# Civil Society Engagement
+
+- 1995: International habilitation as United Nation Officer (Level P2)
+- 1992-1997: European Executive Board Member and European Treasurer of Service Civil International. If you think that is strange, I have been also strongly involved in the sector of International Voluntary Service Organizations and Peace Movements. Now I'm more active in supporting Fair Trade Organization. 
+- Read an essay written for a post-degree Foreign Relations course by the Italian Minister of Foreign Affairs. I advocated a different relationship between Western Democracies and Militant Islam, rather than funding conservative islamist leaders (like Saddam Hussein or Saudi princes) to bash communists. History proved me right. Download it in [Postscript](https://disi.unitn.it/~massacci/Publications/mass-95-SIOI.ps) 
+- I met my wife [Beatrice De Blasi](https://beatricedeblasi.photoshelter.com/index) while working in the NGO sector. 
 
 ### Copyright
 The text on this page is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
