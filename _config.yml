@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: ["Fabio Massacci"]
-logo: ["/images/Fabio-Massacci-2020.jpg"]
-description: ["Personal web page"]
+title: "Fabio Massacci"
+logo: /images/Fabio-Massacci-2020.jpg
+description: "Personal web page"
 show_downloads: false
 google_analytics:
