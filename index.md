@@ -3,8 +3,8 @@
 > - Fabio Massacci (MEng'92, PhD'98 Computer Engineering, MA'95 in International Relations) has been in Rome, Cambridge, Toulouse, Trento, and now Amsterdam. He held
 > visiting positions in Durham, Koblenz, Lueven, Marina del Rey, and Oslo. 
 > - He has published hundreds of papers on multi-disciplinary aspects of security ([Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate),
-> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486)) and has received the *Ten years Most Influential Paper 
-> Award* by the IEEE Requirements Engineering 
+> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486)) and has received the [*Ten years Most Influential Paper 
+> Award*](https://requirements-engineering.org/#awards) by the IEEE Requirements Engineering 
 > Conference in 2015 for his 2005 work on secuirty and trust in socio-technical systems.
 > - He has coordinated several European projects (the SECONOMICS project on socio-economic aspects of security). He coordinates the education 
 > and skills workpackage of the CyberSec4Europe European pilot for an European Competence Center and he is the coordinator on the 
@@ -56,7 +56,7 @@ You can also find some of them on [Trento's web page](https://securitylab.disi.u
 # Impact 	
 
 ## Scientific Awards
-- 2015: Ten Years Most Influential Paper Award at IEEE Requirements Engineering Conference] for our paper on Modeling security requirements through ownership, permission and delegation. You can read our pre-print copy or see our presentation at RE'15.
+- 2015: [Ten Years Most Influential Paper Award at IEEE Requirements Engineering Conference](https://requirements-engineering.org/#awards) for our paper on Modeling security requirements through ownership, permission and delegation. You can read our pre-print copy or see our presentation at RE'15.
 - 2001: AIxIA - Marco Somalvico Career Award for Young Researchers in AI by the Italian Association for Artificial Intelligence
 
 ## Industry Impact
