@@ -21,7 +21,7 @@
 I'm also
 - Durham, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
 - Paris, Wavestone, Research advisor
-- Rome, Consorzio Italiano Nazionale per l'Informatica (CyberSeceurity Lab), head of the OPTICS2 EU project
+- Rome, Consorzio Italiano Nazionale per l'Informatica (CyberSeceurity Lab), local responsible for the OPTICS2 EU project
 
 * * *
 
