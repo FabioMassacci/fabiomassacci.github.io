@@ -34,7 +34,7 @@
 ## Recent Selected Papers
 
 #### Secure Software Engineering
-  - *IEEE Transactions on Software Engineerin, TSE-2020* (joint with SAP) 
+  - *IEEE Transactions on Software Engineerin, TSE-2020* (joint with SAP)  [Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies](...)
   - *ACM Computers and Communication Security CCS-2020* [A Qualitative Study of Dependency Management and Its Security Implications](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
   - *Empirical Software Engineering Journal* ESEJ-2020 (joint with TU/e and UMilano), [Measuring the accuracy of software vulnerability assessments: experiments with students and professionals](https://doi.org/10.1007/s10664-019-09797-4)
 
@@ -46,12 +46,12 @@
   - *IEEE Security and Privacy Magazine* SPM-2020 on [Distributed Financial Exchanges: Security Challenges and Design Principles](https://securitylab.disi.unitn.it/doku.php?id=sp-2019-05-0134.r1_ngo.pdf)
   - *IEEE Symposiunm on Security and Privacy* SSP-2018 (joint with Durham Business School) on [FuturesMEX: secure, distributed futures market exchange](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=sp18proceedings.pdf). Also an [EU/US Patent Application](https://patentimages.storage.googleapis.com/33/02/e7/6deebeae0a1845/US20190244290A1.pdf)
 
-### Less Active Research Topics 	
+## Less Active Research Topics 	
 - Modelling Security Requirements Engineering (Now I do experiments on SRE). But you can still check my 
 - (Logical Cryptanalysis or Crypto with SAT)[https://disi.unitn.it/~massacci/CryptoSAT/] for representing crypto-problems as logical problems. This was an instrumental technology for the recent collision found on SHA-1. I have some old lover's interest in 
 this so if you are interested drop me an email.
 
-#### Papers 
+## Papers 
 You can find most of my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486) and [DBLP](https://dblp.org/pid/59/6145.html).
 
 You can also find some of them on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). The VU Amsterdam group page is coming soon.
