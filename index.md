@@ -15,13 +15,17 @@
 
 # Affiliations
 
+## Main Affiliation
 > - **Amsterdam**, chair of Foundational and Experimental Security at the [Vrije Universiteit](https://www.vu.vl).
 > - **Trento**, part-time professor of cyber security at the [University of Trento](https://www.unitn.it).
 
-I'm also
+## Research Consultancies
 - Durham, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
 - Paris, Wavestone, Research advisor
 - Rome, Consorzio Italiano Nazionale per l'Informatica (CyberSeceurity Lab), local responsible for the OPTICS2 EU project
+
+## Editorial Boards
+- [IEEE Security and Privacy Magazine](https://www.computer.org/csdl/magazine/sp) - Building Security In Column. If you would like to write a piece send me an email to my ieee mail below.
 
 * * *
 
