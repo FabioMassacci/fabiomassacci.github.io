@@ -131,12 +131,22 @@ this so if you are interested drop me an email.
  
  I met my wife [Beatrice De Blasi](https://beatricedeblasi.photoshelter.com/index) while working in the NGO sector. 
 
+# Lectures and Teaching
+
+For the lectures, it is a lot better that you check the web pages of the University. Those ones are always updated (and anyhow they are the ones that i have to use).
+
+For Master Thesis, send me an email from your students' account. Try to read the bio to make sure that I'm sort of interested in the things you want to do. I also supervise Thesis carried in industry with some caveat in terms of their organization.
+
+I have several [Research projects](https://docs.google.com/document/d/1ouOiKEB_8QcF8nKsohHe6wBpoPoBXqwMCoH_YUu-cWQ) for motivated students either in Amsterdam or Trento, roughly they correspond to 6 or 12 ECTS.
+
 # Contacts and Appointments
 
-Send me an email (that is a good joke). You can use 
+Jeez, you went till here. You deserve something. IF you are a former student of mine who wants a recommendation letter it is **mission critical** that you [read the instructions](https://disi.unitn.it/~massacci/instructions-for-references.html).
+
+Otherwise, send me an email (that is a good joke). You can use 
+> - my IEEE address "name.surname@ieee.org".
 > - my Amsterdam address "initial-of-vornaam.achternaam>@vu.nl",
 > - my Trento address "nome.cognome>@unitn.it",
-> - my IEEE address "name.surname>@ieee.org".
 
 Alternatively you may contact me on [LinkedIn](https://www.linkedin.com/in/fabio-massacci-b3199225/). This is the only social network I use.
 
@@ -145,14 +155,6 @@ If you want to know where I am or talk to me, check my [IEEE Calendar](https://c
 You might also directly call me at my phone number in the official web page of the Departments.
 
 * * *
-
-# Lectures and Teaching
-
-For the lectures, it is a lot better that you check the web pages of the University. Those ones are always updated (and anyhow they are the ones that i have to use).
-
-For Master Thesis, send me an email from your students' account. Try to read the bio to make sure that I'm sort of interested in the things you want to do. I also supervise Thesis carried in industry with some caveat in terms of their organization.
-
-I have several [Research projects]() for motivated students, roughly they correspond to 6 or 12 ECTS.
 
 ### Copyright
 The text on this page is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
