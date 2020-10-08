@@ -56,8 +56,8 @@ You can also find quite a few on [Trento's web page](https://securitylab.disi.un
 
 #### Risk Analysis and Policy
   - *Risk Analysis* RAJ-2020 (joint with Durham Business School and KIPA) [Who Should Pay for Interdependent Risk? Policy Implications for Security Interdependence Among Airports](https://doi.org/10.1111/risa.13454)
-  - 
-  - *IEEE Security and Privacy Magazine* SPM-2020 (joint with TU Delft) [Governance Challenges for European Cybersecurity Policies: Stakeholder Views](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:economics:ieee_governance_v28-cleaned.pdf)
+  - *Risk Analysis* RAJ-2018 (joint with TU/e) [Security Events and Vulnerability Data for Cyber Security Risk Estimation](http://www.win.tue.nl/~lallodi/allodi-risa-17.pdf)
+  - *IEEE Security and Privacy Magazine* SPM-2020 (joint with TUDelft) [Governance Challenges for European Cybersecurity Policies: Stakeholder Views](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:economics:ieee_governance_v28-cleaned.pdf)
 
 #### Crypto and Fintech
   - *IEEE Security and Privacy Magazine* SPM-2020 on [Distributed Financial Exchanges: Security Challenges and Design Principles](https://securitylab.disi.unitn.it/doku.php?id=sp-2019-05-0134.r1_ngo.pdf)
