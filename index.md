@@ -1,32 +1,37 @@
-# A Personal Story in 1 line
+# All You Wanted to Know 
+
+## One's life in one line
 > - Fabio Massacci (MEng'92, PhD'98 Computer Engineering, MA'95 in International Relations), married with two children, has been in Rome, Cambridge, Toulouse, Trento, and 
 > Amsterdam. He held visiting positions in Durham, Koblenz, Lueven, Marina del Rey, and Oslo. 
 
-# 3 standard deviations in 3 lines
+## Three standard deviations in three lines
 > - He is one of the few professors who has presented in top hackers' venues (BlackHat USA, Asia), top computer security conferences (ACM CCS, IEEE S&P), 
 > top empirical software engineering journals (ESEJ, IEEE TSE) and top risk analysis journals (Risk Analysis). For his work on security and trust in socio-technical systems he 
 > has received the [*Ten years Most Influential Paper Award*](https://requirements-engineering.org/#awards) by the IEEE Requirements Engineering. He has coordinated several
 > European > projects (including a multidisciplinary projects with economist, sociologists abd computer scientists on socio-economic aspects of security SECONOMICS). 
 > He is the coordinator on the [H2020 AssureMOSS project](https://assuremoss.eu/) on open source security risk assessment and certification 
 > ("Written everywhere, Secured in Europe").
-> - While almost all professors are /sellers/ of technologies (through their papers or their spin-offs) he was for 7 years deputy rectors for ICT procurements and services 
-> supervising a 70+ workforce and several millions Euro in outsourcing contracts. This made him a /buyer/ of computing technology and a /user/ of risk analysis. His perspective
-> of what is a useful security technology or a useful risk analysis is shaped by this experience and very diverse (prestigious companies are not (only) the place to send your students supplier .
+> - While almost all professors are *sellers* of technologies (through their papers or their spin-offs) he was for 7 years deputy rectors for ICT procurements and services 
+> supervising a 70+ workforce and several millions Euro in outsourcing contracts. This made him a *buyer* of computing technology and a *user* of risk analysis. His perspective
+> of what is a useful security technology or a useful risk analysis is shaped by this experience and very diverse: prestigious corporations are not longer (only) the place to send your > students or funders of your research, they are sloppy suppliers selling overpriced products.
 > - He actively participated to the civil society working as a volunteer with underprivilege people and in refugee camps. He held, among others, the post 
 > of European Executive member and Treasurer of Service Civil International an international NGO with consultative status at UNESCO and the European Youth forum. For his MA he
 > wrote a dissertation on the cooperation between democracies and social islamic movements (instead of funding dictators). He qualified at the world-wide competition to become
-> as U.N. Officer but eventually opted to be an Assistant Professor (ok, ok, nobody is perfect). 
+> an U.N. Officer but eventually opted to be an Assistant Professor (ok, nobody is perfect). 
 
-# Researcher IDs
+## My Researcher IDs and where to find my papers.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate),
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300)
-- [ORCID](https://orcid.org/0000-0002-1091-8486)) 
+- [ORCID](https://orcid.org/0000-0002-1091-8486))
+- [DBLP](https://dblp.org/pid/59/6145.html)
+
+You can also find quite a few on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). Few highlights can be also foud below.
 
 * * *
 
 # Affiliations
 
-## Main Affiliation
+## Current Affiliation
 > - **Amsterdam** (2020-2021) part-time chair of Foundational Security at the [Vrije Universiteit](https://www.vu.vl).
 > - **Trento**,   (2001-permanent) part-time professor of cyber security at the [University of Trento](https://www.unitn.it).
 
@@ -63,11 +68,6 @@
 - [Logical Cryptanalysis or Crypto with SAT](https://disi.unitn.it/~massacci/CryptoSAT/) for representing crypto-problems as logical problems. This was an instrumental 
 technology for the recent collision found on SHA-1. I have some old lover's interest in 
 this so if you are interested drop me an email.
-
-## Papers 
-You can find most of my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300), [ORCID](https://orcid.org/0000-0002-1091-8486) and [DBLP](https://dblp.org/pid/59/6145.html).
-
-You can also find some of them on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). 
 
 * * *
 # Impact 	
@@ -152,7 +152,7 @@ For the lectures, it is a lot better that you check the web pages of the Univers
 
 For Master Thesis, send me an email from your students' account. Try to read the bio to make sure that I'm sort of interested in the things you want to do. I also supervise Thesis carried in industry with some caveat in terms of their organization.
 
-I have several research projects available for motivated students, roughly they correspond to 6 or 12 ECTS.
+I have several [Research projects]() for motivated students, roughly they correspond to 6 or 12 ECTS.
 
 ### Copyright
 The text on this page is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
