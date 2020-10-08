@@ -14,7 +14,7 @@
 > - While almost all professors are *sellers* of technologies (through their papers or their spin-offs) he was for 7 years deputy rectors for ICT procurements and services 
 > supervising a 70+ workforce and several millions Euro in outsourcing contracts. This made him a *buyer* of computing technology and a *user* of risk analysis. His perspective
 > of what is a useful security technology or a useful risk analysis is shaped by this experience and very diverse: prestigious corporations are not longer (only) the place to send your > students or funders of your research, they are sloppy suppliers selling overpriced products.
-> - He actively participated to the civil society working as a volunteer with underprivilege people and in refugee camps. He held, among others, the post 
+> - He actively participated to civil society. He worked as a volunteer with underprivilege people and in refugee camps. He held, among others, the post 
 > of European Executive member and Treasurer of Service Civil International an international NGO with consultative status at UNESCO and the European Youth forum. For his MA he
 > wrote a dissertation on the cooperation between democracies and social islamic movements (instead of funding dictators). He qualified at the world-wide competition to become
 > an U.N. Officer but eventually opted to be an Assistant Professor (ok, nobody is perfect). 
