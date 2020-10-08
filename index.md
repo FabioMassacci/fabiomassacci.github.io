@@ -145,8 +145,8 @@ Jeez, you went till here. You deserve something. IF you are a former student of 
 
 Otherwise, send me an email (that is a good joke). You can use 
 > - my IEEE address "name.surname@ieee.org".
-> - my Amsterdam address "initial-of-vornaam.achternaam>@vu.nl",
-> - my Trento address "nome.cognome>@unitn.it",
+> - my Amsterdam address "initial-of-vornaam.achternaam@vu.nl",
+> - my Trento address "nome.cognome@unitn.it",
 
 Alternatively you may contact me on [LinkedIn](https://www.linkedin.com/in/fabio-massacci-b3199225/). This is the only social network I use.
 
