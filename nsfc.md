@@ -1,4 +1,4 @@
-# Research Topics for China Scholarship Council Scholarships by [Fabio Massacci](index.md)
+# Research Topics for the China Scholarship Council Applications by [Fabio Massacci](index.md)
 
 ## Scholarships Opportunities at Vrije Universiteit
 - *Full PhD students*: selected Chinese students can enroll in designated doctoral (PhD) programmes of Vrije Universiteit Amsterdam provided that they engage in the programme for
@@ -9,7 +9,7 @@ degree by Vrije Universiteit Amsterdam.
 Amsterdam.
 - *Postdoctoral fellows*: selected Chinese postdoctoral fellows can enroll in a Vrije Universiteit Amsterdam postdoctoral training programme for 3 to 12 months. 
 
-More information are available at [VU China Scholarship WebPage](https://www.vu.nl/en/research/taking-phd/application-admission-and-funding/admission-and-funding/china-scholarship-council.aspx)
+More information on the application process are available at [VU China Scholarship WebPage](https://www.vu.nl/en/research/taking-phd/application-admission-and-funding/admission-and-funding/china-scholarship-council.aspx)
 
 ## Interesting Research Topics
 
@@ -17,7 +17,7 @@ I'm interested in all topics of experimental cybersecurity, risk analysis and se
 
 Particularly relevant and interesting topics would be 
 - _Economics of Cybersecurity Software Certification_. This theme is particularly relevant for a number of Chinese companies (most notably Huawei) which are subject to an 
-intense scrutiny over their software development process. See for example [the UK NCSC Document]()
+intense scrutiny over their software development process. See for example [the UK NCSC Document](https://www.gov.uk/government/publications/huawei-cyber-security-evaluation-centre-oversight-board-annual-report-2020).  what is the most cost effective way to do so? 
 - _Cybersecurity of Pandemics_. There are gazillions of proposals for tracing apps. The empirical evidence is that if you look carefully at the data of 
 countries that claimed to have put that in place highly invasive contact tracing (e.g. South Korea and China), you find out that what really worked was protection of medical 
 staff (so that they won't pass the infection to their vulnerable patients) and tracing of sick and known to be infected people rather than general contact tracing. People 
