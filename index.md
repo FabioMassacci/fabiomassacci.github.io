@@ -16,7 +16,7 @@
 > of what is a useful security technology or a useful risk analysis is shaped by this experience and very diverse: prestigious corporations are not longer (only) the place to send your > students or funders of your research, they are sloppy suppliers selling overpriced products.
 > - He actively participated to civil society. He worked as a volunteer with underprivilege people and in refugee camps. He held, among others, the post 
 > of European Executive member and Treasurer of Service Civil International an international NGO with consultative status at UNESCO and the European Youth forum. For his MA he
-> wrote a dissertation on the cooperation between democracies and social islamic movements (instead of funding dictators). He qualified at the world-wide competition to become
+> wrote a dissertation on the cooperation between democracies and social islamic movements (instead of funding Saudi princes). He qualified at the world-wide competition to become
 > an U.N. Officer but eventually opted to be an Assistant Professor (ok, nobody is perfect). 
 
 ## My Researcher IDs and where to find my papers.
@@ -93,12 +93,17 @@ this so if you are interested drop me an email.
 - [Duc Ly Vu](https://github.com/lyvd) on the secure software supply chain @UTrento
 - [Ganbayar Uuganbayar](https://www.linkedin.com/in/ganbayar-uuganbayar-1a83a7ab/) on cyber-insurance @CNR-Pisa
 - [Giorgio DiTizio](https://giorgioditizio.github.io) on risk analysis for advanced persistent threats @UTrento
-- [Francesco Minna]() on dynamic risk analysis for FOSS @VUA
+- [Francesco Minna]() on dynamic risk analysis for FOSS @VUAmsterdam
 
 ## Former Collaborators
 - Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Stephan Neuhaus (ZHAW), Nicola Zannone (TU/e)
 - industry: Stanislav Dashevsky (Forescout), Katsyarina Naliuka (Google), Viet Hung Nguyen (Bosch), Le Minh Sang Tran (Yandex).
 - Governement: Woohyun Shim (Korean Institute of Public Administration)
+
+## Interested in new positions?
+- I am always interested in getting new candidates (either in Trento or in Amsterdam). Contact me with a specific proposal and make sure you have at least skipped some of my 
+papers. I receive gazillions of letters of the kind: 'I'm very keen to work on your supervision on... follow a list of things on which I have clearly no competences or skills.
+- For *Chinese Students* please consider the opportunities offered by the [VU Fellowship by the Chinese Scholarship Council](nsfc.md). 
 
 * * *
 # Projects 
@@ -110,8 +115,7 @@ this so if you are interested drop me an email.
 
 ## Past Projects
 - FP7 [SECONOMICS](http://seconomicsproject.eu/)
-- PF7 [SecureCHANGE](http://www.securechange.eu)
-
+- FP7 [SecureCHANGE](http://www.securechange.eu)
 - FP6 MASTER
 - FP6 S3MS
 - FP5 SERENITY
@@ -133,11 +137,18 @@ this so if you are interested drop me an email.
 
 # Lectures and Teaching
 
-For the lectures, it is a lot better that you check the web pages of the University. Those ones are always updated (and anyhow they are the ones that i have to use).
+For the lectures, it is a lot better that you check the web pages of the University. Those ones are always updated (and anyhow they are the ones that I have to use).
 
-For Master Thesis, send me an email from your students' account. Try to read the bio to make sure that I'm sort of interested in the things you want to do. I also supervise Thesis carried in industry with some caveat in terms of their organization.
+For __Master Theses__, send me an email from your students' account. Try to read the bio to make sure that I'm sort of interested in the things you want to do. 
 
-I have several [Research projects](https://docs.google.com/document/d/1ouOiKEB_8QcF8nKsohHe6wBpoPoBXqwMCoH_YUu-cWQ) for motivated students either in Amsterdam or Trento, roughly they correspond to 6 or 12 ECTS.
+I also supervise Theses carried in industry and I actually encourage you to do so. A thesis in industry is not a bad thesis, there are just some caveat in terms to make sure
+that you can make an interesting work and report some interesting scientific findings.
+
+I have a long standing cooperation agreement with *SAP Research Labs* in France. You might do a internship there than can then become a MSc thesis. Several people continued into 
+an industrial PhD.
+
+I have several [Research projects](https://docs.google.com/document/d/1ouOiKEB_8QcF8nKsohHe6wBpoPoBXqwMCoH_YUu-cWQ) for motivated students either in Amsterdam or Trento, roughly 
+they correspond to 6 or 12 ECTS. They can also become thesis.
 
 # Contacts and Appointments
 
