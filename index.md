@@ -27,6 +27,8 @@
 
 You can also find quite a few on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). Few highlights can be also foud below.
 
+There are **NEW Positions** below (check collaborators).
+
 * * *
 
 # Affiliations
@@ -100,10 +102,15 @@ this so if you are interested drop me an email.
 - industry: Stanislav Dashevsky (Forescout), Katsyarina Naliuka (Google), Viet Hung Nguyen (Bosch), Le Minh Sang Tran (Yandex).
 - Governement: Woohyun Shim (Korean Institute of Public Administration)
 
-## Interested in new positions?
+## NEW positions
+- New position as [Research Assistant Professor](https://www.unitn.it/ateneo/bando-dr-valcomp/65445/valutazione-comparativa-a-n-1-posto-di-ricercatore-post-doc-art-24-co-3-lett-a-l-2402010-settore-c) at the University of Trento to work on the AssureMOSS projec on FOSS. **Deadline Dec. 17 at 12noon (CET)**
+
+- New positions as Tenure Track Assistant Professor, Post-doc and PhD student will soon be available at VU Amsterdam. Watch out this space.
+
 - I am always interested in getting new candidates (either in Trento or in Amsterdam). Contact me with a specific proposal and make sure you have at least skipped some of my 
 papers. I receive gazillions of letters of the kind: 'I'm very keen to work on your supervision on... follow a list of things on which I have clearly no competences or skills.
-- For *Chinese Students* please consider the opportunities offered by the [VU Fellowship by the Chinese Scholarship Council](nsfc.md). 
+
+- For *Chinese Students* interested ina  PhD please consider the opportunities offered by the [VU Fellowship by the Chinese Scholarship Council](nsfc.md). Contact me if you are interested.
 
 * * *
 # Projects 
