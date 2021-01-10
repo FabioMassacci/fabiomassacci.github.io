@@ -19,6 +19,10 @@
 > wrote a dissertation on the cooperation between democracies and social islamic movements (instead of funding Saudi princes). He qualified at the world-wide competition to become
 > an U.N. Officer but eventually opted to be an Assistant Professor (ok, nobody is perfect). 
 
+## News 
+
+There are **NEW Positions** below (check collaborators) at VU Amsterdam.
+
 ## My Researcher IDs and where to find my papers.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate),
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55167501300)
@@ -26,8 +30,6 @@
 - [DBLP](https://dblp.org/pid/59/6145.html)
 
 You can also find quite a few on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). Few highlights can be also foud below.
-
-There are **NEW Positions** below (check collaborators).
 
 * * *
 
@@ -103,9 +105,9 @@ this so if you are interested drop me an email.
 - Governement: Woohyun Shim (Korean Institute of Public Administration)
 
 ## NEW positions
-- New position as [Research Assistant Professor](https://www.unitn.it/ateneo/bando-dr-valcomp/65445/valutazione-comparativa-a-n-1-posto-di-ricercatore-post-doc-art-24-co-3-lett-a-l-2402010-settore-c) at the University of Trento to work on the AssureMOSS projec on FOSS. **Deadline Dec. 17 at 12noon (CET)**
+- New position as [Tenure Track Assistant Professor](https://workingat.vu.nl/ad/assistant-professor-in-foundational-and-experimental-security-tenure-track/xu0ol4) at the University of Amsterdam. **Deadline Jan. 19 at 12noon (CET)**
 
-- New positions as Tenure Track Assistant Professor, Post-doc and PhD student will soon be available at VU Amsterdam. Watch out this space.
+- New positions as Post-doc and PhD student at VU Amsterdam. Write me an email and send your cv if you are interested.
 
 - I am always interested in getting new candidates (either in Trento or in Amsterdam). Contact me with a specific proposal and make sure you have at least skipped some of my 
 papers. I receive gazillions of letters of the kind: 'I'm very keen to work on your supervision on... follow a list of things on which I have clearly no competences or skills.
