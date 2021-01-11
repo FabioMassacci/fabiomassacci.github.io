@@ -21,7 +21,7 @@
 
 ## The Full Life (sort of)
 
-> Download the CV [Full CV - Updated Jan 2021](docs/Massacci%20CV%202020-01.pdf).
+> Download the CV [Full CV - Updated Jan 2021](docs/Massacci-CV-2020-01.pdf).
 
 ## News 
 
