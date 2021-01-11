@@ -19,6 +19,10 @@
 > wrote a dissertation on the cooperation between democracies and social islamic movements (instead of funding Saudi princes). He qualified at the world-wide competition to become
 > an U.N. Officer but eventually opted to be an Assistant Professor (ok, nobody is perfect). 
 
+## The Full Life (sort of)
+
+> Download the CV [Full CV - Updated Jan 2021](https://fabiomassacci.github.io/docs/Massacci%20CV%202020-01.pdf).
+
 ## News 
 
 There are **NEW Positions** below (check collaborators) at VU Amsterdam.
