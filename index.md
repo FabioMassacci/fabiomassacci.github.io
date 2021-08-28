@@ -33,15 +33,15 @@ There are **NEW Positions** below (check collaborators) at VU Amsterdam.
 - [ORCID](https://orcid.org/0000-0002-1091-8486))
 - [DBLP](https://dblp.org/pid/59/6145.html)
 
-You can also find quite a few on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications). Few highlights can be also foud below.
+You can also find quite a few on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications) and in [Amsterdam's web page](https://research.vu.nl/en/persons/fabio-massacci). Few highlights can be also foud below.
 
 * * *
 
 # Affiliations
 
 ## Current Affiliation
-> - **Amsterdam** (2020-2021) part-time chair of Foundational Security at the [Vrije Universiteit](https://www.vu.vl).
-> - **Trento**,   (2001-permanent) part-time professor of cyber security at the [University of Trento](https://www.unitn.it).
+> - **Amsterdam** (from 2020) part-time chair of Foundational Security at the [Vrije Universiteit](https://www.vu.vl).
+> - **Trento**,   (from 2001) part-time professor of cyber security at the [University of Trento](https://www.unitn.it).
 
 ## Research Consultancies
 - Durham, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
@@ -49,13 +49,22 @@ You can also find quite a few on [Trento's web page](https://securitylab.disi.un
 - Rome, Consorzio Italiano Nazionale per l'Informatica (CyberSeceurity Lab), local responsible for the OPTICS2 EU project
 
 ## Editorial Boards
-- [IEEE Security and Privacy Magazine](https://www.computer.org/csdl/magazine/sp) - Building Security In Column. If you would like to write a piece send me an email to my ieee mail below.
+- [IEEE Security and Privacy Magazine](https://www.computer.org/csdl/magazine/sp) - Associate Editor in Chief.
 
 * * *
 
 # Research Highlight
 
 ## Recent Selected Papers
+
+#### Technical Leverage - _the_ software and security metric that CFOs can finally understand.
+
+At ICSE21 we have just presented a new and simple metric borrowed from finance: the ratio in a project between other's people money (in this case code from imported dependencies) code and your own money (code you developed yourself). Our analysis on Java projects: shipping 4x times your own code base slows down releases by few paltry days. It's an _opportunity_. Beware, increase your leverage too much and you get +60% chances of shipping vulnerabilities. It's a _risk_. Make sure you don't end up as Lehman Brothers.
+- Watch out the [video](https://www.youtube.com/watch?v=H9RwhR0DANQ)
+- Check the [white paper on the IEEE S&P Magazine](https://assuremoss.eu/en/resources/Papers/2021-SPM)
+- Read the [full paper at ICSE-21](https://assuremoss.eu/en/resources/Papers/2021-ICSE)
+- Or just play with [demo](https://techleverage.eu).
+
 
 #### Empirical Security and Software Engineering
   - *IEEE Transactions on Software Engineerin, TSE-2020* (joint with SAP)  [Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies](to appear)
@@ -92,26 +101,28 @@ this so if you are interested drop me an email.
 * * *
 # Collaborators	
 
-## Post Docs and Research Staff
-- [Pierantonia Sterlini](https://www.linkedin.com/in/pierantonia-sterlini-30a24952) - EU Project Manager (ISO/IEC 17024) @UTrento
-- [Ivan Pashchenko](https://sites.google.com/g.unitn.it/pashchenko) - on software vulnerability (2nd Place at ESEC/FSE 2017 SRC Graduate Competition) @UTrento
-- [Chan Nam Ngo](https://sites.google.com/g.unitn.it/namnc/home) - on crypto and FinTech @UTrento
+## Research Staff
+- [Carlos E. Budde](https://webapps.unitn.it/du/en/Persona/PER0235360) - Research Assistant Professor  @Trento
+- [Ivan Pashchenko](https://sites.google.com/g.unitn.it/pashchenko) - Research Assistant Professor @UTrento
+- [Katja Tuma](https://sites.google.com/view/katja-tuma) - Tenure Track Assistant Professor at @Amsterdam
+- [Piera Sterlini](https://www.linkedin.com/in/pierantonia-sterlini-30a24952) - EU Project Manager (ISO/IEC 17024) @UTrento
 
 ## PhD Students
 - [Duc Ly Vu](https://github.com/lyvd) on the secure software supply chain @UTrento
-- [Ganbayar Uuganbayar](https://www.linkedin.com/in/ganbayar-uuganbayar-1a83a7ab/) on cyber-insurance @CNR-Pisa
 - [Giorgio DiTizio](https://giorgioditizio.github.io) on risk analysis for advanced persistent threats @UTrento
-- [Francesco Minna]() on dynamic risk analysis for FOSS @VUAmsterdam
+- [Francesco Minna](https://orcid.org/0000-0002-3018-044X) on run-time analysis for Cloud Security @VUAmsterdam
 
 ## Former Collaborators
-- Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Stephan Neuhaus (ZHAW), Nicola Zannone (TU/e)
+- Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Chan Nam Ngo (UWarsaw), Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Kate Labunets (TUDelft), Stephan Neuhaus (ZHAW), Federica Paci (UVerona), Nicola Zannone (TU/e), Ganbayar Uuganbayar (UOxford)
 - industry: Stanislav Dashevsky (Forescout), Katsyarina Naliuka (Google), Viet Hung Nguyen (Bosch), Le Minh Sang Tran (Yandex).
 - Governement: Woohyun Shim (Korean Institute of Public Administration)
 
 ## NEW positions
-- New position as [Tenure Track Assistant Professor](https://workingat.vu.nl/ad/assistant-professor-in-foundational-and-experimental-security-tenure-track/xu0ol4) at the University of Amsterdam. **Deadline Jan. 19 at 12noon (CET)**
+- New forthcomin position as  at the University of Amsterdam, on Data Software and Security. Watch this space.
 
 - New positions as Post-doc and PhD student at VU Amsterdam. Write me an email and send your cv if you are interested.
+
+- New position as PhD student at the University of Trento. [Apply here](https://iecs.unitn.it/education/admission/call-for-application) _before August 31 at 12 (CET)_
 
 - I am always interested in getting new candidates (either in Trento or in Amsterdam). Contact me with a specific proposal and make sure you have at least skipped some of my 
 papers. I receive gazillions of letters of the kind: 'I'm very keen to work on your supervision on... follow a list of things on which I have clearly no competences or skills.
@@ -160,8 +171,7 @@ that you can make an interesting work and report some interesting scientific fin
 I have a long standing cooperation agreement with *SAP Research Labs* in France. You might do a internship there than can then become a MSc thesis. Several people continued into 
 an industrial PhD.
 
-I have several [Research projects](https://docs.google.com/document/d/1ouOiKEB_8QcF8nKsohHe6wBpoPoBXqwMCoH_YUu-cWQ) for motivated students either in Amsterdam or Trento, roughly 
-they correspond to 6 or 12 ECTS. They can also become thesis.
+I have several [Research/Thesis projects](https://docs.google.com/document/d/1ouOiKEB_8QcF8nKsohHe6wBpoPoBXqwMCoH_YUu-cWQ) for motivated students either in Amsterdam or Trento. The research project roughly correspond to 6 or 12 ECTS. They can also become thesis with either a broader or deeper scope.
 
 # Contacts and Appointments
 
@@ -176,7 +186,9 @@ Alternatively you may contact me on [LinkedIn](https://www.linkedin.com/in/fabio
 
 If you want to know where I am or talk to me, check my [IEEE Calendar](https://calendar.google.com/calendar/embed?src=fabio.massacci@ieee.org). Most likely on digital platform somewhere.
 
-You might also directly call me at my phone number in the official web page of the Departments.
+You might also directly call me at my office numbers
+> - +31-20-5986098
+> - +39-0461-282086
 
 * * *
 
