@@ -118,11 +118,7 @@ this so if you are interested drop me an email.
 - Governement: Woohyun Shim (Korean Institute of Public Administration)
 
 ## NEW positions
-- New forthcomin position as  at the University of Amsterdam, on Data Software and Security. Watch this space.
-
-- New positions as Post-doc and PhD student at VU Amsterdam. Write me an email and send your cv if you are interested.
-
-- New position as PhD student at the University of Trento. [Apply here](https://iecs.unitn.it/education/admission/call-for-application) _before August 31 at 12 (CET)_
+- New position at the University of Amsterdam, on [Data, Software and Security](https://werkenbij.vu.nl/ad/assistant-professor-tenure-track-in-data-software-and-security/6yfv2p). Apply by Nov 22.
 
 - I am always interested in getting new candidates (either in Trento or in Amsterdam). Contact me with a specific proposal and make sure you have at least skipped some of my 
 papers. I receive gazillions of letters of the kind: 'I'm very keen to work on your supervision on... follow a list of things on which I have clearly no competences or skills.
