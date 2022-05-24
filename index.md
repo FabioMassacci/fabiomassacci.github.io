@@ -25,7 +25,7 @@
 
 ## News 
 
-There are **NEW Positions** below (check collaborators) at VU Amsterdam.
+Read my recent paper on Advanced Persistent Threats: *updates are useless*...
 
 ## My Researcher IDs and where to find my papers.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate),
@@ -40,8 +40,8 @@ You can also find quite a few on [Trento's web page](https://securitylab.disi.un
 # Affiliations
 
 ## Current Affiliation
-> - **Amsterdam** (from 2020) part-time chair of Foundational Security at the [Vrije Universiteit](https://www.vu.vl).
-> - **Trento**,   (from 2001) part-time professor of cyber security at the [University of Trento](https://www.unitn.it).
+> - **Amsterdam** chair of Foundational Security at the [Vrije Universiteit](https://www.vu.vl), from 2020, part-time 
+> - **Trento**, professor of cyber security at the [University of Trento](https://www.unitn.it), from 2001, now part-time
 
 ## Research Consultancies
 - Durham, Fellow of the [Institute for Advanced Studies](https://www.dur.ac.uk/ias/)
@@ -57,6 +57,13 @@ You can also find quite a few on [Trento's web page](https://securitylab.disi.un
 
 ## Recent Selected Papers
 
+#### Updates are useless - a comprehensive study of Advanced Persistent Threats
+
+At TSE22 we have just published a comprehensive study of over 86 APTs and 350 campaigns from 2008 to 2020. It includes information about attack vectors, exploited vulnerabilities (e.g. 0-days vs public vulnerabilities), and affected software and versions. The paper has two important messages:  APTs are not as terrible as security experts depict them and updating is not *the* solution: either you do at lightspeed a gazillions of update or if do regresssion etc., then your risk likelihood is the same as those who only rush to update for disclosed vulnerabilities and before that did... nothing. 
+- Read the paper [preprint](https://lnkd.in/eWDNQmGQ)
+- Download the dataset [Dataset](https://lnkd.in/eXZYQbep)
+If you still think attackers are more powerful than they are, you should read our paper below on the Work-Averse attacker model. 
+
 #### Technical Leverage - _the_ software and security metric that CFOs can finally understand.
 
 At ICSE21 we have just presented a new and simple metric borrowed from finance: the ratio in a project between other's people money (in this case code from imported dependencies) code and your own money (code you developed yourself). Our analysis on Java projects: shipping 4x times your own code base slows down releases by few paltry days. It's an _opportunity_. Beware, increase your leverage too much and you get +60% chances of shipping vulnerabilities. It's a _risk_. Make sure you don't end up as Lehman Brothers.
@@ -67,12 +74,13 @@ At ICSE21 we have just presented a new and simple metric borrowed from finance: 
 
 
 #### Empirical Security and Software Engineering
-  - *IEEE Transactions on Software Engineerin, TSE-2020* (joint with SAP)  [Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies](to appear)
-  - *ACM Computers and Communication Security CCS-2020* [A Qualitative Study of Dependency Management and Its Security Implications](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
+  - *IEEE Transactions on Software Engineering* TSE-2020 (joint with SAP)  [Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies](to appear)
+  - *ACM Computers and Communication Security* CCS-2020 [A Qualitative Study of Dependency Management and Its Security Implications](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:experiments:ccs-2020-preprint.pdf)
   - *Empirical Software Engineering Journal* ESEJ-2020 (joint with TU/e and UMilano), [Measuring the accuracy of software vulnerability assessments: experiments with students and professionals](https://doi.org/10.1007/s10664-019-09797-4)
 
 #### Risk Analysis and Policy
-  - *Risk Analysis* RAJ-2020 (joint with Durham Business School and KIPA) [Who Should Pay for Interdependent Risk? Policy Implications for Security Interdependence Among Airports](https://doi.org/10.1111/risa.13454)
+   - *Risk Analysis* RAJ-2021 (joint with Durham Business School andTU/e) [The Work-Averse Cyberattacker Model: Theory and Evidence from Two Million Attack Signatures]([https://doi.org/10.1111/risa.13454](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.13732))
+ - *Risk Analysis* RAJ-2020 (joint with Durham Business School and KIPA) [Who Should Pay for Interdependent Risk? Policy Implications for Security Interdependence Among Airports](https://doi.org/10.1111/risa.13454)
   - *Risk Analysis* RAJ-2018 (joint with TU/e) [Security Events and Vulnerability Data for Cyber Security Risk Estimation](http://www.win.tue.nl/~lallodi/allodi-risa-17.pdf)
   - *IEEE Security and Privacy Magazine* SPM-2020 (joint with TUDelft) [Governance Challenges for European Cybersecurity Policies: Stakeholder Views](https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=research_activities:economics:ieee_governance_v28-cleaned.pdf)
 
@@ -82,9 +90,7 @@ At ICSE21 we have just presented a new and simple metric borrowed from finance: 
 
 ## Less Active Research Topics 	
 - Modelling Security Requirements Engineering (Now I do experiments on SRE). But you can still check my 
-- [Logical Cryptanalysis or Crypto with SAT](https://disi.unitn.it/~massacci/CryptoSAT/) for representing crypto-problems as logical problems. This was an instrumental 
-technology for the recent collision found on SHA-1. I have some old lover's interest in 
-this so if you are interested drop me an email.
+- [Logical Cryptanalysis or Crypto with SAT](https://disi.unitn.it/~massacci/CryptoSAT/) for representing crypto-problems as logical problems. This was an instrumental technology for the recent collision found on SHA-1. I have some old lover's interest in this so if you are interested drop me an email.
 
 * * *
 # Impact 	
@@ -102,36 +108,35 @@ this so if you are interested drop me an email.
 # Collaborators	
 
 ## Research Staff
-- [Carlos E. Budde](https://webapps.unitn.it/du/en/Persona/PER0235360) - Research Assistant Professor  @Trento
-- [Ivan Pashchenko](https://sites.google.com/g.unitn.it/pashchenko) - Research Assistant Professor @UTrento
+- [Carlos E. Budde](https://webapps.unitn.it/du/en/Persona/PER0235360) - Research Assistant Professor @Trento
 - [Katja Tuma](https://sites.google.com/view/katja-tuma) - Tenure Track Assistant Professor at @Amsterdam
 - [Piera Sterlini](https://www.linkedin.com/in/pierantonia-sterlini-30a24952) - EU Project Manager (ISO/IEC 17024) @UTrento
 
 ## PhD Students
-- [Duc Ly Vu](https://github.com/lyvd) on the secure software supply chain @UTrento
-- [Giorgio DiTizio](https://giorgioditizio.github.io) on risk analysis for advanced persistent threats @UTrento
+- [Aurora Papotti](https://www.linkedin.com/in/aurora-papotti/) on the security of supply chains @VUAmsterdam
 - [Francesco Minna](https://orcid.org/0000-0002-3018-044X) on run-time analysis for Cloud Security @VUAmsterdam
+- [Giorgio DiTizio](https://giorgioditizio.github.io) on risk analysis for advanced persistent threats @UTrento
+- [Ranindya (Nanin) Paramitha](https://www.linkedin.com/in/ranindya-paramitha-5766b513a/) on vulnerability mining @UTrento
+- [Samina Kanwal]() on safety and scurity risk assessment @VUAmsterdam
 
 ## Former Collaborators
-- Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Chan Nam Ngo (UWarsaw), Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Kate Labunets (TUDelft), Stephan Neuhaus (ZHAW), Federica Paci (UVerona), Nicola Zannone (TU/e), Ganbayar Uuganbayar (UOxford)
-- industry: Stanislav Dashevsky (Forescout), Katsyarina Naliuka (Google), Viet Hung Nguyen (Bosch), Le Minh Sang Tran (Yandex).
-- Governement: Woohyun Shim (Korean Institute of Public Administration)
+- Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Kate Labunets (TUDelft), Stephan Neuhaus (ZHAW), Federica Paci (UVerona), Nicola Zannone (TU/e), Ganbayar Uuganbayar (UOxford)
+- industry: Stanislav Dashevsky and Duc Ly Vu (Forescout), Katsyarina Naliuka (Google), Viet Hung Nguyen (Bosch), Chan Nam Ngo (FinTech), Ivan Pashchenko (TomTom), Le Minh Sang Tran (RoboFi).
+- Governement: Woohyun Shim (Korean Institute of Public Administration), Ayda Saidane (Revenue Quebec)
 
 ## NEW positions
-- New position at the University of Amsterdam, on [Data, Software and Security](https://werkenbij.vu.nl/ad/assistant-professor-tenure-track-in-data-software-and-security/6yfv2p). Apply by Nov 22.
+- I am always interested in getting new candidates (either in Trento or in Amsterdam). Contact me with a specific proposal and make sure you have at least skipped some of my  papers. I receive gazillions of letters of the kind: 'I'm very keen to work on your supervision on... follow a list of things on which I have clearly no competences or skills.
 
-- I am always interested in getting new candidates (either in Trento or in Amsterdam). Contact me with a specific proposal and make sure you have at least skipped some of my 
-papers. I receive gazillions of letters of the kind: 'I'm very keen to work on your supervision on... follow a list of things on which I have clearly no competences or skills.
-
-- For *Chinese Students* interested ina  PhD please consider the opportunities offered by the [VU Fellowship by the Chinese Scholarship Council](nsfc.md). Contact me if you are interested.
+- For *Chinese Students* interested in a PhD please consider the opportunities offered by the [VU Fellowship by the Chinese Scholarship Council](nsfc.md). Contact me if you are interested.
 
 * * *
 # Projects 
 
 ## Active Projects
-- H2020 [AssureMOSS](https://www.assuremoss.eu) - 12 partners - (EU Coordinator)
-- H2020 [CyberSec4Europe](https://cybersec4europe.eu/) - 41 Partners - (Leader of Education and Skill WP)
-- H2020 [OPTICS2](http://www.optics-project.eu) - 6 Partners
+- NWA Project [Theseus](https://project-theseus.nl) - 3 partners 
+- EU H2020 [AssureMOSS](https://www.assuremoss.eu) - 12 partners - (EU Coordinator)
+- EU H2020 [CyberSec4Europe](https://cybersec4europe.eu/) - 41 Partners - (Leader of Education and Skill WP)
+- EU H2020 [OPTICS2](http://www.optics-project.eu) - 6 Partners
 
 ## Past Projects
 - FP7 [SECONOMICS](http://seconomicsproject.eu/)
@@ -149,9 +154,7 @@ papers. I receive gazillions of letters of the kind: 'I'm very keen to work on y
 - 1992-1993 Italian Treasurer for the Italian Consortium of Solidarity working on relief work in what at the time were the former republics of Yugoslavia
 - Read an essay written for a professional Master in International Relations by the Italian Minister of Foreign Affairs and the Italian Defence Center. I advocated a different relationship between Western Democracies and Militant Islam, rather than funding conservative islamist leaders (like Saddam Hussein or Saudi princes) to bash communists. History proved me right. Download it in [Postscript](https://disi.unitn.it/~massacci/Publications/mass-95-SIOI.ps) 
 
- If you think that is strange, I have been also strongly involved in the sector of International Voluntary Service Organizations and Peace Movements. Now I'm more active in
- supporting Fair Trade Organization. I have a special relationship with the Philippines as I personally know quite a few activists of the human rights and fair trade movement
- there.
+ If you think that is strange, I have been also strongly involved in the sector of International Voluntary Service Organizations and Peace Movements. Now I'm more active in supporting Fair Trade Organization. I have a special relationship with the Philippines as I personally know quite a few activists of the human rights and fair trade movement there.
  
  I met my wife [Beatrice De Blasi](https://beatricedeblasi.photoshelter.com/index) while working in the NGO sector. 
 
@@ -161,11 +164,9 @@ For the lectures, it is a lot better that you check the web pages of the Univers
 
 For __Master Theses__, send me an email from your students' account. Try to read the bio to make sure that I'm sort of interested in the things you want to do. 
 
-I also supervise Theses carried in industry and I actually encourage you to do so. A thesis in industry is not a bad thesis, there are just some caveat in terms to make sure
-that you can make an interesting work and report some interesting scientific findings.
+I also supervise Theses carried in industry and I actually encourage you to do so. A thesis in industry is not a bad thesis, there are just some caveat in terms to make sure that you can make an interesting work and report some interesting scientific findings.
 
-I have a long standing cooperation agreement with *SAP Research Labs* in France. You might do a internship there than can then become a MSc thesis. Several people continued into 
-an industrial PhD.
+I have a long standing cooperation agreement with *SAP Research Labs* in France. You might do a internship there than can then become a MSc thesis. Several people continued into an industrial PhD.
 
 I have several [Research/Thesis projects](https://docs.google.com/document/d/1ouOiKEB_8QcF8nKsohHe6wBpoPoBXqwMCoH_YUu-cWQ) for motivated students either in Amsterdam or Trento. The research project roughly correspond to 6 or 12 ECTS. They can also become thesis with either a broader or deeper scope.
 
@@ -173,9 +174,9 @@ I have several [Research/Thesis projects](https://docs.google.com/document/d/1ou
 
 Jeez, you went till here. You deserve something. IF you are a former student of mine who wants a recommendation letter it is **mission critical** that you [read the instructions](https://disi.unitn.it/~massacci/instructions-for-references.html).
 
-Otherwise, send me an email (that is a good joke). You can use 
+Otherwise, send me an email.... Ahahhaha that was a good joke... You can use 
 > - my IEEE address "name.surname@ieee.org".
-> - my Amsterdam address "initial-of-vornaam.achternaam@vu.nl",
+> - my Amsterdam address "initial.achternaam@vu.nl",
 > - my Trento address "nome.cognome@unitn.it",
 
 Alternatively you may contact me on [LinkedIn](https://www.linkedin.com/in/fabio-massacci-b3199225/). This is the only social network I use.
