@@ -9,8 +9,7 @@
 > top empirical software engineering journals (ESEJ, IEEE TSE) and top risk analysis journals (Risk Analysis). For his work on security and trust in socio-technical systems he 
 > has received the [*Ten years Most Influential Paper Award*](https://requirements-engineering.org/#awards) by the IEEE Requirements Engineering. He has coordinated several
 > European > projects (including a multidisciplinary projects with economist, sociologists abd computer scientists on socio-economic aspects of security SECONOMICS). 
-> He is the coordinator on the [H2020 AssureMOSS project](https://assuremoss.eu/) on open source security risk assessment and certification 
-> ("Written everywhere, Secured in Europe").
+> He is the coordinator on the [Sec4AI4Sec Project](https://www.sec4ai4sec.eu/) on Cybersecurity for AI augmented systems.
 > - While almost all professors are *sellers* of technologies (through their papers or their spin-offs) he was for 7 years deputy rectors for ICT procurements and services 
 > supervising a 70+ workforce and several millions Euro in outsourcing contracts. This made him a *buyer* of computing technology and a *user* of risk analysis. His perspective
 > of what is a useful security technology or a useful risk analysis is shaped by this experience and very diverse: prestigious corporations are not longer (only) the place to send your > students or funders of your research, they are sloppy suppliers selling overpriced products.
@@ -19,13 +18,13 @@
 > wrote a dissertation on the cooperation between democracies and social islamic movements (instead of funding Saudi princes). He qualified at the world-wide competition to become
 > an U.N. Officer but eventually opted to be an Assistant Professor (ok, nobody is perfect). 
 
-## The Full Life (sort of)
+## News
 
-> Download the CV [Full CV - Updated Jan 2021](https://github.com/FabioMassacci/fabiomassacci.github.io/raw/master/docs/Massacci-CV-2021-01.pdf).
+The Lebanon pager attack is a terrible realization of a paper we wrote on *legal principles for lethal cyber weapons*. Read more below or just [download the paper](
+https://doi.org/10.1109/MSEC.2022.3143269). It is one of the few cases you don't like to be prescient.
 
-## News 
+> Download the CV [Full CV - Not Updated Jan 2021](https://github.com/FabioMassacci/fabiomassacci.github.io/raw/master/docs/Massacci-CV-2021-01.pdf).
 
-Read my recent paper on Advanced Persistent Threats: *updates are useless*...
 
 ## My Researcher IDs and where to find my papers.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate),
@@ -56,6 +55,15 @@ You can also find quite a few on [Trento's web page](https://securitylab.disi.un
 # Research Highlight
 
 ## Recent Selected Papers
+
+#### Building Principles for Lethal Cyber Weapons 
+
+I wrote in 2022 with my collaborator Silvia Vidor (a political scientist) a paper on building principles for lawful cybersecurity lethal weapons. The Israeli attack on Lebanon pagers is the first realization of what can happen. Looking at what we wrote we can conclude that Israel failed on all counts from the international law that we idenfied and mapped to cyberattack:
+- (always distinguish between military targets (legitimate) and civilian targets (illegal),
+- limit damage to civilian targets (“collateral damage”) to an amount that is proportional to the military advantage the attack can offer
+- avoid superfluous injuries and unnecessary suffering (to military and civilian targets alike).
+You can 
+- read the paper [IEEE S&P Magazine](https://doi.org/10.1109/MSEC.2022.3143269)
 
 #### Updates are useless - a comprehensive study of Advanced Persistent Threats
 
