@@ -23,8 +23,6 @@
 The Lebanon pager attack is a terrible realization of a paper we wrote on *legal principles for lethal cyber weapons*. Read more below or just [download the paper](
 https://doi.org/10.1109/MSEC.2022.3143269). It is one of the few cases you don't like to be prescient.
 
-> Download the CV [Full CV - Not Updated Jan 2021](https://github.com/FabioMassacci/fabiomassacci.github.io/raw/master/docs/Massacci-CV-2021-01.pdf).
-
 
 ## My Researcher IDs and where to find my papers.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate),
