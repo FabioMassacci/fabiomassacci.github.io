@@ -20,9 +20,9 @@
 
 ## News
 
-The Lebanon pager attack is a terrible realization of a paper we wrote on *legal principles for lethal cyber weapons*. Read more below or just [download the paper](
-https://doi.org/10.1109/MSEC.2022.3143269). It is one of the few cases you don't like to be prescient.
+The Lebanon pager attack is a subject of an editorial opinion I wrote for the IEEE Security and Privacy Magazine. Read the paper (open access) on [Israel and the Birth of State Cyberterrorism](https://doi.org/10.1109/MSEC.2024.3500114)
 
+This was actually a realization of a paper we wrote on [legal principles for lethal cyber weapons](https://doi.org/10.1109/MSEC.2022.3143269). It is one of the few cases you don't like to be prescient.
 
 ## My Researcher IDs and where to find my papers.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate),
@@ -30,7 +30,7 @@ https://doi.org/10.1109/MSEC.2022.3143269). It is one of the few cases you don't
 - [ORCID](https://orcid.org/0000-0002-1091-8486))
 - [DBLP](https://dblp.org/pid/59/6145.html)
 
-You can also find quite a few on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications) and in [Amsterdam's web page](https://research.vu.nl/en/persons/fabio-massacci). Few highlights can be also foud below.
+You can also find quite a few on [Trento's web page](https://securitylab.disi.unitn.it/doku.php?id=publications) and in [Amsterdam's web page](https://research.vu.nl/en/persons/fabio-massacci). Few highlights can be also found below.
 
 * * *
 
@@ -54,14 +54,22 @@ You can also find quite a few on [Trento's web page](https://securitylab.disi.un
 
 ## Recent Selected Papers
 
-#### Building Principles for Lethal Cyber Weapons 
+#### If your users browse porn, does it increase the chances of malware encounters: a case control study
+
+In this 20204 paper with TrendMicro we investigated (anonymized) users' behavior try to understand if some factors (whether you use the computer at night, browse porn, install a lot of software, etc.) increases the odds of malware encounter. This paper used the same techniques used for the famous British study used to determine whether smoking increases the odds of developing cancer of the lung: a case-control study.
+The quick answer is... it depends. There is not one single bad things that you shouldn't do: browsing porn increases the chances of encountering malware, but if you are worried of bad guys trying to install coinminers you shouldn't allow gambling sites, and so on. Browing at night is generally harmless while getting a lot of software increases the chances of ransomware. 
+You can read the full details of the methodology and the results
+- on the full paper open access on [IEEE TIFS](https://doi.org/10.1109/TIFS.2024.3456960)
+
+#### Building Principles for Lethal Cyber Weapons and State Cyberterrorism
 
 I wrote in 2022 with my collaborator Silvia Vidor (a political scientist) a paper on building principles for lawful cybersecurity lethal weapons. The Israeli attack on Lebanon pagers is the first realization of what can happen. Looking at what we wrote we can conclude that Israel failed on all counts from the international law that we idenfied and mapped to cyberattack:
 - (always distinguish between military targets (legitimate) and civilian targets (illegal),
 - limit damage to civilian targets (“collateral damage”) to an amount that is proportional to the military advantage the attack can offer
 - avoid superfluous injuries and unnecessary suffering (to military and civilian targets alike).
 You can 
-- read the paper [IEEE S&P Magazine](https://doi.org/10.1109/MSEC.2022.3143269)
+- read the 2022 paper [IEEE S&P Magazine](https://doi.org/10.1109/MSEC.2022.3143269)
+- read the 2025 follow up as open access editorial [Israel and the Birth of State Cyber Terrorism](https://doi.org/10.1109/MSEC.2024.3500114)
 
 #### Updates are useless - a comprehensive study of Advanced Persistent Threats
 
@@ -114,37 +122,40 @@ At ICSE21 we have just presented a new and simple metric borrowed from finance: 
 # Collaborators	
 
 ## Research Staff
-- [Carlos E. Budde](https://webapps.unitn.it/du/en/Persona/PER0235360) - Research Assistant Professor @Trento
-- [Katja Tuma](https://sites.google.com/view/katja-tuma) - Tenure Track Assistant Professor at @Amsterdam
-- [Piera Sterlini](https://www.linkedin.com/in/pierantonia-sterlini-30a24952) - EU Project Manager (ISO/IEC 17024) @UTrento
-
+- [Mengyuan Zhang](https://scholar.google.it/citations?hl=en&user=XebXoxIAAAAJ) - Tenure Track Assistant Professor at @VUAmsterdam
+- [Johannes Hartel](https://johanneshaertel.github.io/) - Postdoctoral Researcher at @VUAmsterdam
+  
 ## PhD Students
+- [Winnie Mbaka](https://scholar.google.com/citations?user=S9jApi8AAAAJ&hl=en) on human factors in security (jointly with Katja Tuma)
+- [Maria Camporese](https://www.linkedin.com/in/mariacamporese/) on automated vulnerability repair @UTrento
+- [Yuan Feng]() on machine learning for vulnerability detection @UTrento
+- [Emanuele Mezzi](https://www.linkedin.com/in/emanuele-mezzi/) on AI and ML for Threat Intelligence @VUAmsterdam and TNO (jointly with Katja Tuma) 
+- [Francesco Minna](https://orcid.org/0000-0002-3018-044X) on run-time analysis for Cloud Security @VUAmsterdam (jointly with Katja Tuma)
 - [Aurora Papotti](https://www.linkedin.com/in/aurora-papotti/) on the security of supply chains @VUAmsterdam
-- [Francesco Minna](https://orcid.org/0000-0002-3018-044X) on run-time analysis for Cloud Security @VUAmsterdam
-- [Giorgio DiTizio](https://giorgioditizio.github.io) on risk analysis for advanced persistent threats @UTrento
 - [Ranindya (Nanin) Paramitha](https://www.linkedin.com/in/ranindya-paramitha-5766b513a/) on vulnerability mining @UTrento
-- [Samina Kanwal]() on safety and scurity risk assessment @VUAmsterdam
-
+- [Sarah van Gerwen](https://www.linkedin.com/in/sarah-van-gerwen-826331216/) on Human aspects on AI for threat intelligence @VUAmsterdam and Thales Research NL
+- [Siqi Zhang](https://research.vu.nl/en/persons/siqi-zhang) on vulnerability prioritization and patching policies @VUAmsterdam (Jointly with Mengyuan Zhang)
+  
 ## Former Collaborators
-- Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Kate Labunets (TUDelft), Stephan Neuhaus (ZHAW), Federica Paci (UVerona), Nicola Zannone (TU/e), Ganbayar Uuganbayar (UOxford)
-- industry: Stanislav Dashevsky and Duc Ly Vu (Forescout), Katsyarina Naliuka (Google), Viet Hung Nguyen (Bosch), Chan Nam Ngo (FinTech), Ivan Pashchenko (TomTom), Le Minh Sang Tran (RoboFi).
-- Governement: Woohyun Shim (Korean Institute of Public Administration), Ayda Saidane (Revenue Quebec)
+- Academia: Luca Allodi (TU/e), Nataliia Bielova (INRIA), Carlos Budde and Nicola Dragoni (DTU), Olga Gadyatskaya (ULeiden), Kate Labunets (TUDelft), Stephan Neuhaus (ZHAW), Federica Paci (UVerona), Katja Tuma (TU/e), Nicola Zannone (TU/e), Ganbayar Uuganbayar (UMongolia)
+- industry: Stanislav Dashevsky (Forescout), Giorgio Di Tizio (Airbus), Duc Ly Vu (ChainGuard), Katsyarina Naliuka (Google), Viet Hung Nguyen (Bosch), Chan Nam Ngo (FinTech), Ivan Pashchenko (TomTom), Le Minh Sang Tran (RoboFi).
+- Governement: Woohyun Shim (Korean Institute of Public Administration), Ayda Saidane (Revenue Quebec), Piera Sterlini (UTrento)
 
 ## NEW positions
 - I am always interested in getting new candidates (either in Trento or in Amsterdam). Contact me with a specific proposal and make sure you have at least skipped some of my  papers. I receive gazillions of letters of the kind: 'I'm very keen to work on your supervision on... follow a list of things on which I have clearly no competences or skills.
-
-- For *Chinese Students* interested in a PhD please consider the opportunities offered by the [VU Fellowship by the Chinese Scholarship Council](nsfc.md). Contact me if you are interested.
 
 * * *
 # Projects 
 
 ## Active Projects
-- NWA Project [Theseus](https://project-theseus.nl) - 3 partners 
+- HE Project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/)
+- NWA Project [Theseus](https://project-theseus.nl)
+- NWO-KIC Project [HEWSTI]()
+
+## Past Projects
 - EU H2020 [AssureMOSS](https://www.assuremoss.eu) - 12 partners - (EU Coordinator)
 - EU H2020 [CyberSec4Europe](https://cybersec4europe.eu/) - 41 Partners - (Leader of Education and Skill WP)
 - EU H2020 [OPTICS2](http://www.optics-project.eu) - 6 Partners
-
-## Past Projects
 - FP7 [SECONOMICS](http://seconomicsproject.eu/)
 - FP7 [SecureCHANGE](http://www.securechange.eu)
 - FP6 MASTER
@@ -170,11 +181,9 @@ For the lectures, it is a lot better that you check the web pages of the Univers
 
 For __Master Theses__, send me an email from your students' account. Try to read the bio to make sure that I'm sort of interested in the things you want to do. 
 
-I also supervise Theses carried in industry and I actually encourage you to do so. A thesis in industry is not a bad thesis, there are just some caveat in terms to make sure that you can make an interesting work and report some interesting scientific findings.
+I also supervise Theses carried in industry and I actually encourage you to do so. A thesis in industry is not a bad thesis, there are just some caveat in terms to make sure that you can make an interesting work and report some interesting scientific findings. Several people continued into an industrial PhD.
 
-I have a long standing cooperation agreement with *SAP Research Labs* in France. You might do a internship there than can then become a MSc thesis. Several people continued into an industrial PhD.
-
-I have several [Research/Thesis projects](https://docs.google.com/document/d/1ouOiKEB_8QcF8nKsohHe6wBpoPoBXqwMCoH_YUu-cWQ) for motivated students either in Amsterdam or Trento. The research project roughly correspond to 6 or 12 ECTS. They can also become thesis with either a broader or deeper scope.
+I have several Research/Thesis projects for motivated students either in Amsterdam or Trento. The research project roughly correspond to 6 or 12 ECTS. They can also become thesis with either a broader or deeper scope.
 
 # Contacts and Appointments
 
