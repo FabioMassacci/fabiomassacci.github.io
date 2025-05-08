@@ -20,9 +20,11 @@
 
 ## News
 
-The Lebanon pager attack is a subject of an editorial opinion I wrote for the IEEE Security and Privacy Magazine. Read the paper (open access) on [Israel and the Birth of State Cyberterrorism](https://doi.org/10.1109/MSEC.2024.3500114)
+Our observational study GDPR in the small on how privacy issues are managed in schools is at IEEE Security and Privacy Symposium (IEEE SS&P). We observed actions of over 100 teachers and staff at 1 kindergarten, 10 primary schools, 2 middle schools, and 2 secondary schools. [Read the findings here](https://fabiomassacci.github.io/docs/Privacy_in_the_Small-16.pdf)
 
-This was actually a realization of a paper we wrote on [legal principles for lethal cyber weapons](https://doi.org/10.1109/MSEC.2022.3143269). It is one of the few cases you don't like to be prescient.
+Two papers at the International Conference on Software Engineeering (ICSE): in one paper we set a mathematical bounds on when using machine learning for automated vulnerability repair make sense (Hint: either it is very fast or recall is great, otherwise is not worth). [Read the paper here](https://arxiv.org/abs/2504.07027). In a second paper we used confident learning to understand when it is better to drop confusing samples from the data set (Hint: it does make sense, dropping 0.5% bad training points can improve recall from 60% to 77%). [Read the paper here](https://fabiomassacci.github.io/docs/Confidence_Learning_for_Vulnerabilities_icse.pdf)
+
+The Lebanon pager attack is a subject of an editorial opinion I wrote for the IEEE Security and Privacy Magazine. Read the paper (open access) on [Israel and the Birth of State Cyberterrorism](https://doi.org/10.1109/MSEC.2024.3500114) This was actually a realization of a paper we wrote on legal principles for lethal cyber weapons (see below for further details).
 
 ## My Researcher IDs and where to find my papers.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=gC_ZVPgAAAAJ&sortby=pubdate),
