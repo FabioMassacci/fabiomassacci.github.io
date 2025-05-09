@@ -20,11 +20,11 @@
 
 ## News
 
-- Our observational study (100 teachers and staff at 1 kindergarten, 10 primary schools, 2 middle schools, and 2 secondary schools) on how privacy issues are managed in schools is IEEE S&P Symposium. [Read the findings here](https://fabiomassacci.github.io/docs/Privacy_in_the_Small-16.pdf)
+- IEEE S&P Symposium paper on our observational study (100 teachers and staff at 1 kindergarten, 10 primary schools, 2 middle schools, and 2 secondary schools) on how privacy issues are managed in schools is out. [Read the findings here](https://fabiomassacci.github.io/docs/Privacy_in_the_Small-16.pdf)
 
-- Our first ICSE paper on the mathematical bounds on when using machine learning for automated vulnerability repair make sense (Hint: either it is very fast or recall is great, otherwise is not worth). [Read the paper here](https://arxiv.org/abs/2504.07027)
+- ICSE-NIER paper on the mathematical bounds on when using machine learning for automated vulnerability repair make sense (Hint: either it is very fast or recall is great, otherwise is not worth). [Read the paper here](https://arxiv.org/abs/2504.07027)
 
-- Our second ICSE paper on using confident learning to understand when it is better to drop confusing samples from the data set (Hint: it does make sense). [Read the paper here](https://fabiomassacci.github.io/docs/Confidence_Learning_for_Vulnerabilities_icse.pdf)
+- ICSE-NIER paper on using confident learning to understand when it is better to drop confusing samples from the data set (Hint: it does make sense). [Read the paper here](https://fabiomassacci.github.io/docs/Confidence_Learning_for_Vulnerabilities_icse.pdf)
 
 - The Lebanon pager attack is a subject of an editorial opinion I wrote for the IEEE S&P Magazine. Read the paper (open access) on [Israel and the Birth of State Cyberterrorism](https://doi.org/10.1109/MSEC.2024.3500114).
 
